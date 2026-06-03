@@ -1,4 +1,4 @@
-# AeroNav | Interactive Navigation Menu (PRODIGY_WD_01)
+# AeroNav |responsive landing page
 
 A premium interactive navigation menu with a multi-section landing page featuring dynamic scroll-based styling, smooth pseudo-element hover effects, active section indicators (Scrollspy), and a mobile-responsive sliding drawer menu.
 
